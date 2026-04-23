@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (исключаем тяжёлые файлы)
+Data/Processed/
+Output/
+
+# OS
+.DS_Store
+Thumbs.db
