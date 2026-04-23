@@ -235,14 +235,47 @@
 
 ## 📸 Пример работы пайплайна
 
-### Входное изображение
-![input](Examples/Input/)
+### Пример №1
 
-### Топологический граф
-![graph](Examples/Output/)
+*Входное изображение*
 
-### Абстрактное представление
-![abstract](Examples/Output/)
+![input](Examples/Input/01_original_img.png)
+
+*Топологический граф*
+
+![graph](Examples/Output_example/01_graph_only.png)
+
+*Абстрактное представление*
+
+![abstract](Examples/Output_example/01_abstract_graph.png)
+
+### Пример №2
+
+*Входное изображение*
+
+![input](Examples/Input/02_original_img.png)
+
+*Топологический граф*
+
+![graph](Examples/Output_example/02_graph_only.png)
+
+*Абстрактное представление*
+
+![abstract](Examples/Output_example/02_abstract_graph.png)
+
+### Пример №3
+
+*Входное изображение*
+
+![input](Examples/Input/03_original_img.png)
+
+*Топологический граф*
+
+![graph](Examples/Output_example/03_graph_only.png)
+
+*Абстрактное представление*
+
+![abstract](Examples/Output_example/03_abstract_graph.png)
 
 ---
 
