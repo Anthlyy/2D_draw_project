@@ -249,6 +249,6 @@
 
 ## Контакты
 
-email: asamson553@gmail.com | 
+Email: asamson553@gmail.com | 
 Phone: +7-953-901-95-53 | 
 Telegram: @anthlyy
